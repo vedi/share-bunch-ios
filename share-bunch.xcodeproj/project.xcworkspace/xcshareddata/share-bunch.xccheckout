@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4379C74-8F33-4E7A-BE0E-CF8C7AE607BF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>share-bunch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1FFD74A86A5F7ED061E50BE747C46CA843246C90</key>
+		<string>github.com:vedi/native-gateway-aggregated-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>share-bunch/ShareBunch/share-bunch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1FFD74A86A5F7ED061E50BE747C46CA843246C90</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:vedi/native-gateway-aggregated-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1FFD74A86A5F7ED061E50BE747C46CA843246C90</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1FFD74A86A5F7ED061E50BE747C46CA843246C90</string>
+			<key>IDESourceControlWCCName</key>
+			<string>native-gateway-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
